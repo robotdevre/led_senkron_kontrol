@@ -1,4 +1,4 @@
-# led-senkron-kontrol ✅![Wokwi CI](https://github.com/robotdevre/led_blink/actions/workflows/wokwi.yml/badge.svg)
+# led-senkron-kontrol ![Wokwi CI](https://github.com/robotdevre/led_blink/actions/workflows/wokwi.yml/badge.svg)
 
 Bu proje, Arduino Uno kartı kullanılarak iki LED’in aynı anda yanıp sönmesini sağlar. `delay()` fonksiyonu ile zamanlama sağlanır. Temel seviyede bir Arduino projesidir.
 
