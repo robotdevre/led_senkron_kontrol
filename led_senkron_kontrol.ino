@@ -1,5 +1,5 @@
-int led1 = 8;
-int led2 = 9;
+int led1 = 8; 
+int led2 = 9; 
 
 void setup() {
   pinMode(led1, OUTPUT);
