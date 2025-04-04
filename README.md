@@ -26,7 +26,7 @@ Bu proje, Arduino Uno kartı kullanılarak iki LED’in aynı anda yanıp sönme
 ## 📷 Devre Şeması
 
 📁 `diagram.json` dosyasında Wokwi uyumlu devre şeması bulunmaktadır.  
-İstersen doğrudan [Wokwi üzerinde simüle etmek için buraya tıklayabilirsin.](https://wokwi.com)
+İstersen doğrudan [Wokwi üzerinde simüle etmek için buraya tıklayabilirsin.](https://wokwi.com/projects/426604719076145153)
 
 ---
 
